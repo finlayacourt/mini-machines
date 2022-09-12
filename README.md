@@ -1,3 +1,5 @@
+![mini machines](https://user-images.githubusercontent.com/19372421/189712046-387f7be4-52e6-4d9f-a108-943466cf6015.png)
+
 <p align="center">Simple & typesafe client-server communication</p>
 
 ## Installation
